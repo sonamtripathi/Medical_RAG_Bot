@@ -1,0 +1,4 @@
+*.pdf
+.env
+*.docx
+.venv/
