@@ -1,6 +1,9 @@
-langchain 
-langchain_community 
-faiss-cpu 
-pypdf
-huggingface-hub
-streamlit
+langchain==0.2.17
+langchain-core==0.2.43
+langchain-community==0.2.19
+langchain-huggingface==0.0.3
+langchain-text-splitters==0.2.4
+faiss-cpu==1.8.0.post1
+pypdf==5.4.0
+huggingface-hub==0.30.1
+streamlit==1.40.0
