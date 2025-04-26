@@ -7,3 +7,4 @@ faiss-cpu==1.8.0.post1
 pypdf==5.4.0
 huggingface-hub==0.30.1
 streamlit==1.40.0
+python-dotenv==1.0.1
